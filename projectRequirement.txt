@@ -1,0 +1,8 @@
+System Requirement
+
+a. The System should be able to handle high volume of request.
+b. The client requests should be processed without missing the order of request. 
+c. The server should be able to handle multiple client connections.
+d. The response should be synchronous.
+e. The system should be able to take the future job requests. i.e. sell at x price.
+f. How are the future jobs request processed without fail?
